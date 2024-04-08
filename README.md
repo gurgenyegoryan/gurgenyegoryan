@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a dedicated DevOps engineer with a passion for
 
 - **Containerization & Orchestration**: Docker, Docker Compose, Kubernetes
 - **Infrastructure as Code**: Terraform, CloudFormation
-- **Cloud Platforms**: Google Cloud Platform (GCP)
+- **Cloud Platforms**: Google Cloud Platform (GCP), Amazon Web Services (AWS)
 - **Scripting & Automation**: Bash, Python
 - **CI/CD**: GitHub Actions
 - **Version Control**: Git, GitHub
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **Monitoring & Logging**: Prometheus, Grafana
 
 ## 🚀 What I Do
 
@@ -20,11 +20,6 @@ Welcome to my GitHub profile! I'm a dedicated DevOps engineer with a passion for
 - Automate repetitive tasks and streamline workflows using Bash scripting and Python.
 - Implement CI/CD pipelines with GitHub Actions for rapid and reliable software delivery.
 
-## 💡 Projects & Contributions
-
-- [Project Name](link): Brief description.
-- [Project Name](link): Brief description.
-- [Contribution Name](link): Brief description.
 
 ## 📫 Let's Connect!
 
